@@ -14,10 +14,17 @@ https://drive.google.com/drive/folders/1_2iHRNAxzf3XCilfbtERlY2-koNV6XsF?usp=sha
 Here is the result of zaid in 2020 
 acuuracy1 is for Random Forest and accuracy2 for CART algo 
 you can verify result by yourself by checking the Google earth engine link
+
+
+
 ![image](https://github.com/VinayakP007/LULC-SIF-2023/assets/153257058/e9848c55-0987-40d1-9368-add18074e833)
+
+
 
 We used two models for all seasons and then merged the result to improve accuracy 
 As you see over here when we utilized ensemble learning with RF (Random Forest) and CART models our accuracy improved.
+
+
 ![image](https://github.com/VinayakP007/LULC-SIF-2023/assets/153257058/1ef7fece-39c8-4384-a4a5-2af4f6ded26a)
 
 here is the LULC of zaid 2020 from Random forest algo 
