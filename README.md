@@ -21,7 +21,7 @@ you can verify result by yourself by checking the Google earth engine link
 
 
 
-We used two models for all seasons and then merged the result to improve accuracy 
+We used two models for all seasons and then merged the result to improve accuracy, 
 As you see over here when we utilized ensemble learning with RF (Random Forest) and CART models our accuracy improved.
 
 
